@@ -1,0 +1,171 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar
+{
+    background-color: hsl(242deg 37% 14%);
+}
+.logo
+{
+    width: 300px;
+    height: 80px;
+}
+.logo img
+{
+    width: 100%;
+    height: auto;
+}
+.navbar-light .navbar-brand {
+    color: #fff !important;
+    font-size: 25px;
+    margin: 7px;
+}
+span.queues {
+    color: hsl(0deg 67% 63%);
+}
+.mainbody
+{
+    /* height: 800px; */
+    background-color: hsl(242deg 37% 14%);
+    padding-bottom: 20px;
+}
+
+.sidebar_nav a {
+    text-decoration: none;
+    color: #fff;
+    line-height: 60px;
+    padding: 27px;
+    font-weight: 500;
+}
+.sidebar_nav ul {
+    list-style: none;
+}
+    .overblock {
+        background-color: #ffffff1c;
+    }
+    .bitcoin {
+        background-color: #ffffff40;
+        padding: 19px;
+        border-radius: 10px;
+    }
+    .rightsec h3 {
+        color: #fff;
+        line-height: 41px;
+        font-size: 23px;
+        font-weight: bold;
+    }
+
+    .bitcoin p {
+        color: #fff;
+        font-weight: bold;
+        letter-spacing: 0.8px;
+        font-size: 18px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }    
+    .bitcoin h2 {
+        font-size: 20px;
+        color: #fff;
+        letter-spacing: 0.8px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    span.bitspa {
+        background-color: #1598159e;
+        color: #fff;
+        padding: 6px 12px;
+        border-radius: 13px;
+        font-size: 12px;
+    }
+    .bitred
+    {
+        background-color: #ff0000a8 !important;
+    }   
+   /* .mainbody .row {
+        justify-content: space-between;
+    } */
+    .graphimage img
+    {
+        width: 100%;
+        height: auto;
+    }
+    span.seeall {
+        font-size: 16px;
+        float: right;
+        padding-right: 20px;
+        font-weight: 500;
+        color: #ffffff6b;
+    }
+    .portfolio {
+        background-color: hsl(242deg 25% 19%);
+        /* height: 400px; */
+        border-radius: 10px;
+        padding: 10px;
+    }
+    .btc {
+        padding: 10px 15px;
+        padding-bottom: 0px;
+    }
+    .btc h4 {
+        color: hsl(43deg 46% 66%);
+        font-size: 14px;
+        font-weight: bold;
+        letter-spacing: 0.8px;
+    }
+    .btc p
+    {
+        color: hsl(244deg 8% 59%);
+    }
+    .doge h4
+    {
+        color: hsl(209deg 43% 53%);
+    }
+    .bnb h4{
+        color: hsl(278deg 56% 55%);
+    }
+    .eth h4{
+        color:hsl(168deg 50% 60%);
+    }
+    .distance p
+    {
+        color: #fff;
+    }
+    .graphin {
+        height: 300px;
+        text-align: center;
+    }
+    .graphin img {
+        height: 100%;
+        width: 88%;
+        object-fit: cover;
+    }
+    .livemarket
+    {
+        background-color: hsl(242deg 25% 19%);
+        height: 200px;
+    }
+    .livemarketall {
+        background-color: hsl(242deg 25% 19%);
+        border-radius: 10px;
+        text-align: center;
+        margin-top: 20px;
+    }    
+    .livemarketall p{
+        color: #fff;
+    }
+    .ethernum
+    {
+       color: hsl(169deg 37% 52%);
+    }
+    .dashicobns
+    {
+        padding: 6px;
+    }
+    .bitspace
+    {
+    float: right;  
+    }
